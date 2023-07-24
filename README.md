@@ -30,4 +30,4 @@ The three datasets bom.movie_gross.csv, title.basics.csv and 'title.ratings.csv 
 
 ## Contribution
 
-Contributions to this project are welcome. If you find any more insights that have been left out issues or have any uggestions please open an issue or submit a pull request.
+Contributions to this project are welcome. If you find any more insights that have been left out, issues or have any suggestions please open an issue or submit a pull request.
