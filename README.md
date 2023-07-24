@@ -24,7 +24,7 @@ To use the code in this repository, please follow these steps:
    
 ## Data
 
-The whole dataset used for in exploration has not been included in this repository except for the specific files used in analysis. However, you can find the dataset used in the project at https://github.com/learn-co-curriculum/dsc-project-template.git.
+The whole dataset has not been included in this repository except for the specific files used in analysis. However, you can find the dataset used in the project at https://github.com/learn-co-curriculum/dsc-project-template.git.
 
 The three datasets bom.movie_gross.csv, title.basics.csv and 'title.ratings.csv used in exploration have been included in this repository.
 
